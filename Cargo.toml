@@ -1,0 +1,8 @@
+[package]
+name = "CHIP8Emulator"
+version = "0.1.0"
+authors = ["iorweth <aenseidheiorweth@gmail.com>"]
+
+[dependencies]
+rand = "0.6"
+minifb = "0.11.2"
